@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zazz96
 - 👀 I’m interested in image analysis
-- 🌱 I’m currently learning quatitaive image analysis via paython
+- 🌱 I’m currently learning quantitative image analysis via python
 - 💞️ I’m looking to collaborate on image analysis method
 
 
